@@ -1,6 +1,5 @@
 local table_gen = require "gamesense/table_gen"
 
--- 
 local BUILDS = { "17-11-2021" }
 local CURRENT_BUILD = "Resolver-Stats-" .. BUILDS[#BUILDS]
 
